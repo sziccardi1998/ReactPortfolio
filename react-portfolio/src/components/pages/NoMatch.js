@@ -5,7 +5,7 @@ function NoMatch() {
   return (
     <div>
     
-            <h1>Oh no! You made a wrong turn!</h1>
+            <h1>Oops!</h1>
             <h1>
               <p>404-No Page Found</p>
                 
