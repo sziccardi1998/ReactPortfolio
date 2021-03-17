@@ -14,7 +14,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
-  "homepage": "https://sziccardi1998.github.io/react-portfolio",
+  "homepage": "https://sziccardi1998.github.io/ReactPortfolio",
   "scripts": {
     "predeploy": "npm run build",
    "deploy": "gh-pages -b main -d build",
