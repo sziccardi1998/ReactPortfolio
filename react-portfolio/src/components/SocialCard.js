@@ -3,10 +3,10 @@ import React from "react";
 function SocialCard() {
   return (
     <div class="col">
-      <div class="card" style={{margin: 50}}>
+      <div class="card">
         <div class="card-body">
           <h5 class="card-title">Simon Ziccardi</h5>
-          <h6 class="card-subtitle">Find me on Social Media</h6>
+          <h6 class="card-subtitle">Connect with me here</h6>
           <p class="card-text">
             <ul>
               <li>
